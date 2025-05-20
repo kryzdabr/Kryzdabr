@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm currently working on developing a new skill to learn to use GitHub
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1xw:0.74975xh;0,0.190xh&resize=1200:*">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.npr.org/assets/img/2023/12/12/gettyimages-1054147940-627235e01fb63b4644bec84204c259f0a343e35b.jpg?s=1600&c=85&f=webp">
+ <img alt="Baby Elefant" src="https://www.rainforest-alliance.org/wp-content/uploads/2021/06/african-elephant-calf-1-600x600.jpg.webp">
+</picture>
 <!--
 **kryzdabr/Kryzdabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
